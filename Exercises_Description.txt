@@ -1,0 +1,46 @@
+**************************************************************
+******  This File Descripes Each Excercise in the Repo  ******
+**************************************************************
+
+//Excercise 1
+
+Code that prints the ASCII table
+
+**************************************************************
+
+//Excercise 2
+
+Code that find the maximum value between 3 values
+
+**************************************************************
+
+//Excercise 3
+
+Code that print the Right Angle Pattern
+
+**************************************************************
+
+//Excercise 4
+
+Code that find if char is vowelor not
+
+**************************************************************
+
+//Excercise 5
+
+Code that generate the multiplication table of a given number
+
+**************************************************************
+
+//Excercise 6
+
+Code that sum the digits of integer entered by user
+
+**************************************************************
+
+//Excercise 7
+
+Code that convert between decimal & binary
+
+
+**************************************************************
